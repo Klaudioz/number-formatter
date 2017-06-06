@@ -1,0 +1,23 @@
+{
+  "name": "number-formatter",
+  "version": "0.0.1",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Klaudioz/number-formatter.git"
+  },
+  "author": "Claudio Canales <klaudioz@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Klaudioz/number-formatter/issues"
+  },
+  "homepage": "https://github.com/Klaudioz/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
